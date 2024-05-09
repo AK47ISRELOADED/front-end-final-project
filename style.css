@@ -1,14 +1,14 @@
 @font-face {
   font-family: dalal;
-  src: url(./GT-America-Standard-Regular.ttf);
+  src: url(./GT-America-Standard-Regular.woff2);
 }
 @font-face {
   font-family: ame;
-  src: url(./GT-America-Compressed-Bold.ttf);
+  src: url(./GT-America-Compressed-Bold.woff2);
 }
 @font-face {
   font-family: bt;
-  src: url(./GT-America-Compressed-Black-Trial.otf);
+  src: url(./GT-America-Compressed-Black-Trial.woff2);
 }
 
 * {
